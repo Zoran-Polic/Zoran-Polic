@@ -1,6 +1,6 @@
 # Hi, I'm Zoran
 
-I'm a software engineer in Durham, NC. I work on CI/CD, DevSecOps and developer tooling, and I like explaining how things work.
+I'm a software engineer in Raleigh, NC. I work on CI/CD, DevSecOps and developer tooling, and I like explaining how things work.
 
 ## What I'm sharing
 
