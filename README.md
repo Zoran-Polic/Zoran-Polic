@@ -9,3 +9,7 @@ I'm a software engineer in Raleigh, NC. I work on CI/CD, DevSecOps and developer
 ## Interests
 
 Pipelines that people can trust, clear documentation, and teaching by building.
+
+## Selected public work
+
+- [Game, Set, Code](https://github.com/Zoran-Polic/game-set-code) — browser tennis game and step-by-step tutorial for learning by building. [Read the case study](https://github.com/Zoran-Polic/game-set-code/blob/main/CASE-STUDY.md).
