@@ -1,6 +1,6 @@
 # Hi, I'm Zoran
 
-Advisory Software Engineer at IBM in Raleigh, NC. I work on the CI/CD and DevSecOps behind IBM's AI coding assistants, **IBM Watsonx Code Assistant for Z** and **IBM Bob**: shared build and security pipelines, artifact signing, and guides that help engineers adopt them.
+Advisory Software Engineer at IBM in Raleigh, NC. I work on the CI/CD and DevSecOps behind IBM's AI coding assistants, **IBM watsonx Code Assistant for Z** and **IBM Bob**: shared build and security pipelines, artifact signing, and guides that help engineers adopt them.
 
 ## What I'm sharing
 
